@@ -1,0 +1,5 @@
+applications:
+- name: long-running-http-thing
+  buildpack: https://github.com/cloudfoundry/go-buildpack
+
+
